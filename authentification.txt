@@ -1,0 +1,14 @@
+*lancer interface dans un cmd:
+npm run dev
+*lancer backend fastapi dans un cmd:
+uvicorn main:app --reload
+
+* dans le fichier rag_engine/rag_pipeline.py : AJOUTER votre API clé de cohére
+*authentification:
+admin:
+	mail:chaimae.abderrazzak@um5r.ac.ma
+	MP:chaimae.abderrazzak
+client:
+	mail:chaimaaoulhayane@gmail.com
+	MP:Aminaoulhayane000
+

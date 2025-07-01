@@ -9,6 +9,7 @@ admin:
 	mail:chaimae.abderrazzak@um5r.ac.ma
 	MP:chaimae.abderrazzak
 client:
-	mail:chaimaaoulhayane@gmail.com
-	MP:Aminaoulhayane000
+
+créer un compte client avec votre gmail valide, et valider votre authentification en accédant au message de validation dans mail.
+
 
